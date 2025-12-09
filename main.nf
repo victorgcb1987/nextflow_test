@@ -22,7 +22,7 @@ process nucmerTask {
 
     script:
     """
-    nucmer --maxmatch --nosimplify $ref $qry -p $prefix --coords
+    GAQET
     """
 }
 
