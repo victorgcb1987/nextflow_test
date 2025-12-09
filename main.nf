@@ -1,3 +1,4 @@
+#!/usr/bin/env nextflow
 params.ref_assembly = null
 params.user_assembly = null
 params.prefix = "test"
