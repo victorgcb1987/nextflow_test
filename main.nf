@@ -1,9 +1,9 @@
 #!/usr/bin/env nextflow
 
 
-params.ref_assembly
-params.user_assembly
-params.prefix
+params.ref_assembly = null
+params.user_assembly = null
+params.prefix = "test"
 
 
  process nucmer_task (
