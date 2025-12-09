@@ -1,5 +1,6 @@
 #!/usr/bin/env nextflow
 
+
 params.ref_assembly
 params.user_assembly
 params.prefix
